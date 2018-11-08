@@ -1,21 +1,34 @@
-# Title slide
+# A Data Pre-processing Script for PyTorch ML Problem
 
-## Your Name
+## Yang Wang
 
-Your affiliation
+KTH ITM
 
 ---
 
 layout: false
 
-## Second slide
+## Overview
+### try subtitle
 
-- Hey
-- Ho
-- Lets
-- Go
+- Background
+- Implementation
+- Outcome
+- Discussion
+
+## try another title
 
 ---
+
+## Background
+
+- Challenge in Modeling
+- Course Material
+- Machine Learning with PyTorch
+
+---
+
+## Implementation
 
 ## Third slide
 
